@@ -1,5 +1,9 @@
 
-## Olá, Tudo bem? eu me chamo Larissa Gomes!
+## 👋 Olá, Seja muito bem-vindo!
+Eu me chamo Larissa Gomes e esse é o meu espaço pessoal para a postagem de aplicativos que desenvolvi.
+
+## 🚀 Sobre mim
+Sou estudante de Análise e Desenvolvimento na Fatec e estou sempre em busca de aprender mais. Meus repositórios incluem projetos acadêmicos e pessoais criados para colocar em prática os conhecimentos adquiridos ao longo da minha jornada.
 
 <div>
  <a href="https://github.com/LarissaGomes333/github-readme-stats" />
@@ -18,17 +22,23 @@
 	 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
    	 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 	 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+         <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
+         <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+         <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+         <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
          <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-	 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-          
-          
+	 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />          
 </div>
+
+## 🤝 Contribuições e feedback
+
+Fique à vontade para explorar, abrir issues, fazer sugestões ou contribuir com pull requests.  
+Toda colaboração é bem-vinda!
 
 ##
 
 <div>
-	<a href="https://www.linkedin.com/in/larissa-gomes-70057a210/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="www.linkedin.com/in/larissa-gomes-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="mailto:larissabeatriz333.lb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
