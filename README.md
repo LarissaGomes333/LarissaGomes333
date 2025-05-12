@@ -1,9 +1,9 @@
 
 ## 👋 Olá, Seja muito bem-vindo!
-Eu me chamo Larissa Gomes e esse é o meu espaço pessoal para a postagem de aplicativos que desenvolvi.
+Eu me chamo Larissa Gomes e esse é o meu espaço pessoal para a postagem de aplicativos que desenvolvi.<br/>
 
 ## 🚀 Sobre mim
-Sou estudante de Análise e Desenvolvimento na Fatec e estou sempre em busca de aprender mais. Meus repositórios incluem projetos acadêmicos e pessoais criados para colocar em prática os conhecimentos adquiridos ao longo da minha jornada.
+Sou estudante de Análise e Desenvolvimento na Fatec e estou sempre em busca de aprender mais. Meus repositórios incluem projetos acadêmicos e pessoais criados para colocar em prática os conhecimentos adquiridos ao longo da minha jornada.<br/>
 
 <div>
  <a href="https://github.com/LarissaGomes333/github-readme-stats" />
@@ -35,8 +35,7 @@ Sou estudante de Análise e Desenvolvimento na Fatec e estou sempre em busca de 
 Fique à vontade para explorar, abrir issues, fazer sugestões ou contribuir com pull requests.  
 Toda colaboração é bem-vinda!
 
-##
-
+## 📭 Contatos e rede
 <div>
 	<a href="www.linkedin.com/in/larissa-gomes-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="mailto:larissabeatriz333.lb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
