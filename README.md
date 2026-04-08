@@ -3,7 +3,7 @@
 Eu me chamo Larissa Gomes e esse é o meu espaço pessoal para a postagem de aplicativos que desenvolvi.<br/>
 
 ## 🚀 Sobre mim
-Sou estudante de Análise e Desenvolvimento na Fatec e estou sempre em busca de aprender mais. Meus repositórios incluem projetos acadêmicos e pessoais criados para colocar em prática os conhecimentos adquiridos ao longo da minha jornada.<br/>
+Formada em Análise e Desenvolvimento na Fatec e estou sempre em busca de aprender mais. Meus repositórios incluem projetos acadêmicos e pessoais criados para colocar em prática os conhecimentos adquiridos ao longo da minha jornada.<br/>
 
 <div>
  <a href="https://github.com/LarissaGomes333/github-readme-stats" />
